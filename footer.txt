@@ -1,0 +1,274 @@
+ 
+
+<footer class="mz-page-footer">
+    
+   
+<ul class="mz-top-footer ">
+
+<li>New Arrivals</li><li>|</li>
+<li>Clearance Items</li><li>|</li>
+<li>Special Offers</li><li>|</li>  
+<li>Top Sellers</li><li>|</li> 
+<li>Deal of the Day</li>
+</ul>
+
+
+
+<button class="accordion"> <strong class="mz-page-footer__col-heading">SHOP </strong><i class="plus" style="float:right">+</i><i class="minus" style="float:right">-</i></button>
+<div class="panel">
+   <ul class="mz-page-footer__list">
+                       <li><a href="">PA Speakers</a></li>
+                        <li><a href="">Subwoofers</a></li>
+                        <li><a href="">Monitors</a></li>
+                        <li><a href="">Amplifiers & Mixers</a></li>
+                        <li><a href="">Cables</a></li>
+                        <li><a href="">Microphones</a></li>
+                         <li><a href="">Rack cases</a></li>
+                         <li><a href="">Stands</a></li>
+                         <li><a href="">Guitars & Guitar Cabinets</a></li>
+                          <li><a href="">Parts</a></li>
+   </ul>
+</div>
+
+<button class="accordion"> <strong class="mz-page-footer__col-heading">Customer service </strong><i class="plus" style="float:right" >+</i><i class="minus" style="float:right">-</i></button>
+<div class="panel">
+   <ul class="mz-page-footer__list">
+                        <li><a href="/faq">FAQ</a></li>
+                        <li><a href="/contact-us">Contact Us</a></li>
+                        <li><a href="/return-policy">Returns</a></li>
+                       <li><a href="/shipping-policy">Shipping Policy</a></li>
+                        <li><a href="/customerreview">Customer Reviews</a></li>
+                       <li><a href="/terms-conditions">Terms &amp; Conditions</a></li>
+                         <li><a href="/privacy-policy">Privacy Policy</a></li>
+                        
+                    </ul>
+                   
+</div>
+
+<button class="accordion"><strong class="mz-page-footer__col-heading">Resources </strong><i class="plus" style="float:right">+</i><i class="minus" style="float:right">-</i></button>
+<div class="panel">
+  <ul class="mz-page-footer__list">
+                        <li><a href="/pro-audio-and-dj-tips">Tips</a></li>
+                        <li><a href="/tech-help">Tech Help</a></li>
+                        <li><a href="">Comparisons</a></li>
+                        <li><a href="/pro-audio-cable-guide">Guides</a></li>
+    </ul>
+    </div>
+
+<button class="accordion"><strong class="mz-page-footer__col-heading">My Account</strong><i class="plus" style="float:right">+</i><i class="minus" style="float:right">-</i></button>
+<div class="panel">
+ <ul class="mz-page-footer__list">
+                   
+                      
+                        <li><a href="/logout">Logout</a></li>
+                  
+                        <li><a href="javascript:;" data-mz-role="login-open">Login/My Profile</a></li>
+                   
+                       <li><a href="">My Orders</a></li>
+                        <li><a href="/myaccount/#account-wishlist">My Wishlist</a></li>
+                        <li><a href="/cart">View Cart</a></li>
+                        
+                        
+                    </ul>
+</div>
+<button class="accordion"><strong class="mz-page-footer__col-heading">Seismic Audio </strong><i class="plus" style="float:right">+</i><i class="minus" style="float:right">-</i></button>
+<div class="panel">
+ <ul class="mz-page-footer__list">
+                        <li><a href="/about-us">About Seismic Audio</a></li>
+                        <li><a href="/contact-us">Contact Us</a></li>
+                        <li><a href="/who-shops-at-seismic-audio">Who Shops at seismic Audio?</a></li>
+                        <li><a href="/why-choose-seismic-audio">Why Choose Seismic Audio?</a></li>
+                         <li><a href="/press-release">Press Releases</a></li>
+                            <li><a href="//seismicaudioblog.com" target="_blank">Blog</a></li>
+                    </ul>
+</div>
+ <div class="toll-free-numbe mob-toll">
+               <p>
+               Toll Free Number
+               </p> 
+               <p><b>1.877.347.6423</b></p>
+                <p>Espanol?</p>
+                <p><b>1.877.347.6424</b></p>
+                <p><span>Monday -Friday </span></p>
+                <p><span>9:00 A.M. - 5:00 P.M. CST</span></p>
+              </div>
+
+
+
+
+
+
+
+<div class="row mz-page-footer__cols">
+                <div class="col-sm-2 mz-page-footer__col">
+                    <strong class="mz-page-footer__col-heading">SHOP</strong>
+                    <ul class="mz-page-footer__list">
+                       <li><a href="">PA Speakers</a></li>
+                        <li><a href="">Subwoofers</a></li>
+                        <li><a href="">Monitors</a></li>
+                        <li><a href="">Amplifiers & Mixers</a></li>
+                        <li><a href="">Cables</a></li>
+                        <li><a href="">Microphones</a></li>
+                         <li><a href="">Rack Cases</a></li>
+                         <li><a href="">Stands</a></li>
+                         <li><a href="">Guitars & Guitar Cabinets</a></li>
+                          <li><a href="">Parts</a></li>
+                    </ul>
+                    <div class="">
+              <ul class="mz-page-footer__list packg">
+        <li><a href="">Church Packages</a></li>
+        <li><a href="">Live Sound Packages</a></li>
+        <li><a href="">DJ Packages</a></li>
+        </ul> 
+            </div> 
+                </div>
+                <div class="col-sm-2 mz-page-footer__col">
+                 
+                  
+                    <strong class="mz-page-footer__col-heading">Customer service</strong><br/>
+                    <ul class="mz-page-footer__list">
+                        <li><a href="/faq">FAQ</a></li>
+                        <li><a href="/contact-us">Contact Us</a></li>
+                        <li><a href="/return-policy">Returns</a></li>
+                       <li><a href="/shipping-policy">Shipping Policy</a></li>
+                        <li><a href="/customerreview">Customer Reviews</a></li>
+                       <li><a href="/terms-conditions">Terms &amp; Conditions</a></li>
+                         <li><a href="/privacy-policy">Privacy Policy</a></li>
+                        
+                    </ul>
+                   
+                </div>
+                 <div class="col-sm-2 mz-page-footer__col">
+                    
+                  
+                    <strong class="mz-page-footer__col-heading">Resources</strong><br/>
+                    <ul class="mz-page-footer__list">
+                        <li><a href="/pro-audio-and-dj-tips">Tips</a></li>
+                        <li><a href="/tech-help">Tech Help</a></li>
+                        <li><a href="">Comparisons</a></li>
+                        <li><a href="/pro-audio-cable-guide">Guides</a></li>
+                    </ul>
+                   
+                </div>
+                <div class="col-sm-2 mz-page-footer__col">
+                    <strong class="mz-page-footer__col-heading">My Account</strong><br/>
+                    <ul class="mz-page-footer__list">
+                   
+                      
+                        <li><a href="/logout">Logout</a></li>
+                    
+                        <li><a href="javascript:;" data-mz-role="login-open">Login/My Profile</a></li>
+                    
+                       <li><a href="">My Orders</a></li>
+                        <li><a href="/myaccount/#account-wishlist">My Wishlist</a></li>
+                        <li><a href="/cart">View Cart</a></li>
+                        
+                        
+                    </ul>
+
+                </div>
+                <div class="col-sm-2 mz-page-footer__col">
+                   
+                   
+                    <strong class="mz-page-footer__col-heading">Seismic Audio</strong><br/>
+                    <ul class="mz-page-footer__list">
+                        <li><a href="/about-us">About Seismic Audio</a></li>
+                        <li><a href="/contact-us">Contact Us</a></li>
+                        <li><a href="/who-shops-at-seismic-audio">Who Shops at Seismic Audio?</a></li>
+                        <li><a href="/why-choose-seismic-audio">Why Choose Seismic Audio?</a></li>
+                         <li><a href="/press-release">Press Releases</a></li>
+                            <li><a href="//seismicaudioblog.com" target="_blank">Blog</a></li>
+                    </ul>
+                     <div class="toll-free-number">
+               <p>
+               Toll Free Number
+               </p> 
+               <p><b>1.877.347.6423</b></p>
+                <p>Espanol?</p>
+                <p><b>1.877.347.6424</b></p>
+                <p><span>Monday -Friday</span></p>
+                <p><span> 9:00 A.M. - 5:00 P.M. CST</span></p>
+              </div>
+                   
+                </div>
+              <br/>   
+           
+          
+        </div>
+      
+      <strong class="social-links">Follow Seismic Audio</strong>
+      <ul class="mz-social-links__list">
+
+   
+		<li>
+			<a href="//twitter.com/seismicaudio" target="_blank" class="mz-social-link mz-social-link--twitter">
+			<i class="fa fa-twitter"></i>
+				<span class="mz-social-link__text">Twitter</span>
+			</a>
+		</li>
+
+	
+
+		<li>
+			<a href="//www.pinterest.com/seismicaudio/" target="_blank" class="mz-social-link mz-social-link--pinterest">
+				<i class="fa fa-pinterest"></i>
+				<span class="mz-social-link__text">Pinterest</span>
+			</a>
+		</li>
+
+
+
+		<li>
+			<a href="//www.facebook.com/seismicaudio" target="_blank" class="mz-social-link mz-social-link--facebook">
+			<i class="fa fa-facebook"></i>
+				<span class="mz-social-link__text">Facebook</span>
+			</a>
+		</li>
+
+		<li>
+			<a href="//instagram.com/seismicaudio" target="_blank" class="mz-social-link mz-social-link--instagram">
+			<i class="fa fa-instagram"></i>
+				<span class="mz-social-link__text">Instagram</span>
+			</a>
+		</li>
+
+		<li>
+			<a href="//google.com/+Seismicaudiospeakers" target="_blank" class="mz-social-link mz-social-link--google-plus">
+	<i class="fa fa-google-plus" aria-hidden="true"></i>
+				<span class="mz-social-link__text">Google+</span>
+			</a>
+		</li>
+
+		<li>
+			<a href="//www.youtube.com/seismicaudio" target="_blank" class="mz-social-link mz-social-link--youtube">
+			<i class="fa fa-youtube-play"></i>
+				<span class="mz-social-link__text">YouTube</span>
+			</a>
+		</li>
+
+
+
+</ul>
+
+               
+<div class="mz-copyright desk-cpy text-center">
+		&copy; 2016 Seismic Audio, All Rights Reserved | Privacy Policy   
+</div> 
+
+><ul class="mz-payment-methods">
+<p>Trusted & Secure</p>	<li><img class="visa" src="../resources/images/footer/visa.png" alt="Visa"></li>
+	<li><img class="mastercard" src="../resources/images/footer/mastercard.png" alt="MasterCard"></li>
+	<li><img class="paypal" src="../resources/images/footer/Paypal-new.png" alt="PayPal"></li>
+    <li><img class="amex" src="../resources/images/footer/Amex.png" alt="American Express"></li>
+
+</ul>
+<div class="clear"></div>
+<p class="ech-developed"><span><a href="http://echidnainc.com/">Design + Technology + Marketing By Echidna</a></span></p>
+<div class="mz-copyright text-center mob-cpy">
+	&copy; 2016 Seismic Audio, All Rights Reserved | Privacy Policy    
+</div>
+
+ 
+ 
+   
+</footer>
