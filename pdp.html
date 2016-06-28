@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="css/font-awesome.min.css" />
+<link rel="stylesheet" href="css/style.css" />
+<link rel="stylesheet" href="css/color.css" />
+<script src="js/jquery-1.12.0.js" type="text/javascript"></script>
+<script src="js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<script src="js/custom.js" type="text/javascript"></script>
+<title>Bachmans</title>
+</head>
+<body>
+	<!--Header starts here -->
+	<div class="header">
+		<div class="row">
+			<div class="logo">
+				<a href="#"><img src="images/logo.png"></a>
+			</div>
+			<div class=" browser">
+				<p>BROWSE <img src="images/icons-svg/arrow-closed.svg"></p>
+			</div>
+			<div class="search_box">
+				<div class="customer">
+					Customer <i class="fa fa-chevron-down"></i>
+				</div>
+				<div class="search_feild">
+					<i class="fa fa-search"></i>
+					<input type="text">
+				</div>
+			</div>
+			<div class="build_order">
+				<img src="images/icons-svg/build-order.svg">
+				<p>Build order</p>
+			</div>
+			<div class="build_order">
+				<img src="images/icons-svg/profile.svg">
+				<p>Build order</p>
+				<i class="fa fa-chevron-down"></i>
+			</div>
+		</div>
+	</div>
+	<!--Header ends here -->
+	
+	<!--body content starts here -->
+	<div class="container-fluid">
+		<!--left side bar starts -->
+		<div class="result_leftbar padding_footer">
+			<div class="col-sm-12 user_details">
+				<div class="col-sm-11 user_details_box">
+					<p>Order for</p>
+					<h1>Janet smith</h1>
+				</div>
+			</div>
+			<div class="col-sm-12 user_details">
+				<div class="col-sm-11 user_details_box">
+					<p>1234 Western Ave N, Saint Paul, MN 55102</p>
+					<p>2342342342</p>
+				</div>
+			</div>
+			<div class="col-sm-12 user_details">
+				<div class="col-sm-12 user_details_box">
+					<div class="col-sm-7">
+						<h3>Purple perks</h3>
+						<span>Member since 2007</span>
+					</div>
+					<h4>$5.00</h4>
+				</div>
+			</div>
+			<div class="col-sm-12 order_menu">
+				<ul class="col-sm-12">
+					<li class="col-sm-12">
+						<i class="fa fa-user"></i>
+						<span>Profile details</span>
+					</li>
+					<li class="col-sm-12">
+						<i class="fa fa-book"></i>
+						<span>Address book</span>
+					</li>
+					<li class="col-sm-12">
+						<i class="fa fa-clipboard"></i>
+						<span>Order history</span>
+					</li>
+					<li class="col-sm-12">
+						<i class="fa fa-credit-card-alt"></i>
+						<span>Payment Methods ?<span>
+					</li>
+				</ul>
+			</div>
+			<div class="col-sm-12 order_note">
+				<div class="col-sm-12">
+					<h1>Note (3)</h1>
+					<span>Add note</span>
+				</div>
+				<div class="col-sm-12">
+					<h2>02/05/15</h2>
+					<p>Please add free shiping to the next order.</p>
+					<i><img src="images/icons-svg/cancel.svg"></i>
+				</div>
+				<div class="col-sm-12">
+					<h2>02/05/15</h2>
+					<p>Please add free shiping to the next order.</p>
+					<i><img src="images/icons-svg/cancel.svg"></i>
+				</div>
+				<div class="col-sm-12">
+					<h2>02/05/15</h2>
+					<p>Please add free shiping to the next order.</p>
+					<i><img src="images/icons-svg/cancel.svg"></i>
+				</div>
+				<a href="#">View All Notes</a>
+			</div>
+		</div>
+		<!-- left side bar ends -->
+		<!-- right side bar starts -->
+		<div class="search_rightbar padding_footer">
+			<h1 class="active_order">active order</h1>
+			<div class="col-sm-12 search_product_wrapper">
+				<div class="col-sm-12 search_product_description">
+					<div class="col-sm-7">
+						<div class="col-sm-12">
+							<h1>Stargazer</h1>
+							<span><i class="fa fa-pencil"></i> Edit</span>
+						</div>
+						<p>Option : Deluxe</p>
+						<p>Color : red</p>
+						<a href="">Notes</a>
+					</div>
+					<ul>
+						<li><i class="fa fa-plus"></i></li>
+						<li>03</li>
+						<li><i class="fa fa-minus"></i></li>
+					</ul>
+				</div>
+				<div class="col-sm-12">
+					<ul class="nav nav-stacked" id="accordion1">
+						<li class="panel product_accordion"> 
+							<a data-toggle="collapse" data-parent="#accordion1" href="#firstproduct1">
+								<i class="fa fa-plus"></i>
+								<p>Item 1 of 3 - June cleever</p>
+								<span>$60.00</span>
+							</a>
+							<ul id="firstproduct1" class="collapse panel-collapse in">
+								<a href="#">View Address Book</a>
+								<div class="name_feild">
+									<p>First Name <span>*</span></p>
+									<input type="text">
+								</div>
+								<div class="name_feild">
+									<p>First Name <span>*</span></p>
+									<input type="text">
+								</div>
+								<li><input type="radio"><label>Residence</label></li>
+								<li><input type="radio"><label>Hospital/Church/Funeral Home</label></li>
+								<li><input type="radio"><label>Business</label></li>
+								<li><input type="radio"><label>School</label></li>
+								<li><input type="radio"><label>Will Call</label></li>
+								<div class="col-sm-12 item_price">
+									<p>Item Price</p>
+									<span>$34.00</span>
+								</div>
+								<div class="col-sm-12 item_price">
+									<p>Estimated Tax</p>
+									<span>$34.00</span>
+								</div>
+								<div class="col-sm-12 item_price">
+									<p>Estimated Delivery</p>
+									<span>$34.00</span>
+								</div>
+								<div class="col-sm-12 item_price_total">
+									<p>Estimated Total</p>
+									<span>$34.00</span>
+								</div>
+							</ul>
+						</li>
+						<li class="panel product_accordion"> 
+							<a data-toggle="collapse" data-parent="#accordion1" href="#firstproduct2">
+								<i class="fa fa-plus"></i>
+								<p>Item 1 of 3 - June cleever</p>
+								<span>$60.00</span>
+							</a>
+							<ul id="firstproduct2" class="collapse panel-collapse">
+								<a href="#">View Address Book</a>
+								<div class="name_feild">
+									<p>First Name <span>*</span></p>
+									<input type="text">
+								</div>
+								<div class="name_feild">
+									<p>First Name <span>*</span></p>
+									<input type="text">
+								</div>
+								<li><input type="radio"><label>Residence</label></li>
+								<li><input type="radio"><label>Hospital/Church/Funeral Home</label></li>
+								<li><input type="radio"><label>Business</label></li>
+								<li><input type="radio"><label>School</label></li>
+								<li><input type="radio"><label>Will Call</label></li>
+								<div class="col-sm-12 item_price">
+									<p>Item Price</p>
+									<span>$34.00</span>
+								</div>
+								<div class="col-sm-12 item_price">
+									<p>Estimated Tax</p>
+									<span>$34.00</span>
+								</div>
+								<div class="col-sm-12 item_price">
+									<p>Estimated Delivery</p>
+									<span>$34.00</span>
+								</div>
+								<div class="col-sm-12 item_price_total">
+									<p>Estimated Total</p>
+									<span>$34.00</span>
+								</div>
+							</ul>
+						</li>
+					</ul>
+				</div>
+			</div>
+			
+			<div class="col-sm-12 search_product_wrapper">
+				<div class="col-sm-12 search_product_description">
+					<div class="col-sm-7">
+						<div class="col-sm-12">
+							<h1>Stargazer</h1>
+							<span><i class="fa fa-pencil"></i> Edit</span>
+						</div>
+						<p>Option : Deluxe</p>
+						<p>Color : red</p>
+						<a href="">Notes</a>
+					</div>
+					<ul>
+						<li><i class="fa fa-plus"></i></li>
+						<li>03</li>
+						<li><i class="fa fa-minus"></i></li>
+					</ul>
+				</div>
+				<div class="col-sm-12">
+					<ul class="nav nav-stacked" id="accordion2">
+						<li class="panel product_accordion"> 
+							<a data-toggle="collapse" data-parent="#accordion2" href="#secondproduct1">
+								<i class="fa fa-plus"></i>
+								<p>Item 1 of 3 - June cleever</p>
+								<span>$60.00</span>
+							</a>
+							<ul id="secondproduct1" class="collapse panel-collapse in">
+								<a href="#">View Address Book</a>
+								<div class="name_feild">
+									<p>First Name <span>*</span></p>
+									<input type="text">
+								</div>
+								<div class="name_feild">
+									<p>First Name <span>*</span></p>
+									<input type="text">
+								</div>
+								<li><input type="radio"><label>Residence</label></li>
+								<li><input type="radio"><label>Hospital/Church/Funeral Home</label></li>
+								<li><input type="radio"><label>Business</label></li>
+								<li><input type="radio"><label>School</label></li>
+								<li><input type="radio"><label>Will Call</label></li>
+								<div class="col-sm-12 item_price">
+									<p>Item Price</p>
+									<span>$34.00</span>
+								</div>
+								<div class="col-sm-12 item_price">
+									<p>Estimated Tax</p>
+									<span>$34.00</span>
+								</div>
+								<div class="col-sm-12 item_price">
+									<p>Estimated Delivery</p>
+									<span>$34.00</span>
+								</div>
+								<div class="col-sm-12 item_price_total">
+									<p>Estimated Total</p>
+									<span>$34.00</span>
+								</div>
+							</ul>
+						</li>
+						<li class="panel product_accordion"> 
+							<a data-toggle="collapse" data-parent="#accordion2" href="#secondproduct2">
+								<i class="fa fa-plus"></i>
+								<p>Item 1 of 3 - June cleever</p>
+								<span>$60.00</span>
+							</a>
+							<ul id="secondproduct2" class="collapse panel-collapse">
+								<a href="#">View Address Book</a>
+								<div class="name_feild">
+									<p>First Name <span>*</span></p>
+									<input type="text">
+								</div>
+								<div class="name_feild">
+									<p>First Name <span>*</span></p>
+									<input type="text">
+								</div>
+								<li><input type="radio"><label>Residence</label></li>
+								<li><input type="radio"><label>Hospital/Church/Funeral Home</label></li>
+								<li><input type="radio"><label>Business</label></li>
+								<li><input type="radio"><label>School</label></li>
+								<li><input type="radio"><label>Will Call</label></li>
+								<div class="col-sm-12 item_price">
+									<p>Item Price</p>
+									<span>$34.00</span>
+								</div>
+								<div class="col-sm-12 item_price">
+									<p>Estimated Tax</p>
+									<span>$34.00</span>
+								</div>
+								<div class="col-sm-12 item_price">
+									<p>Estimated Delivery</p>
+									<span>$34.00</span>
+								</div>
+								<div class="col-sm-12 item_price_total">
+									<p>Estimated Total</p>
+									<span>$34.00</span>
+								</div>
+							</ul>
+						</li>
+					</ul>
+				</div>
+			</div>
+			
+		</div>
+		<!-- right side bar ends -->
+		<!-- main container starts here-->
+		<div class="search_wrapper padding_footer">
+			<div class="col-sm-12 dpd_wrapper">
+				<h2 class="back_to_result"><i class="fa fa-chevron-left"></i>Back to Search Results</h2>
+				<div class="col-sm-12">
+					<div class="col-sm-7">
+						<img src="images/product.jpg">
+					</div>
+					<div class="col-sm-5">
+						<h1>Stargazer</h1>
+						
+						<div class="col-sm-12 product_types">
+							<h2>Type</h2>
+							<div class="col-sm-12">
+								<input type="radio">
+								<p>Standard (6 items)</p>
+								<span>$56.90</span>
+							</div>
+							<div class="col-sm-12">
+								<input type="radio">
+								<p>Deluxe (6 items)</p>
+								<span>$56.90</span>
+							</div>
+							<div class="col-sm-12">
+								<input type="radio">
+								<p>Premium (6 items)</p>
+								<span>$56.90</span>
+							</div>
+						</div>
+						
+						<div class="col-sm-12 product_color" >
+							<h2>Color</h2>
+							<span class="pink"></span>
+							<span class="blue"></span>
+							<span class="red"></span>
+						</div>
+						<div class="col-sm-12 product_size" >
+							<h2>Color</h2>
+							<input type="text" value="2">
+						</div>
+						<div class="col-sm-12 product_delivery" >
+							<h2>Select Delivery</h2>
+							<div class="col-sm-6">
+								<h3>Zip Code</h3>
+								<input type="text">
+							</div>
+							<div class="col-sm-6">
+								<h3>Date</h3>
+								<input type="date">
+							</div>
+							<a class="add_to_cart" href="#">ADD TO CART</a>
+						</div>
+					</div>
+				</div>
+				<!-- Product  description starts here -->
+				<div class="col-sm-12 productDescription">
+					<h1>Description</h1>
+					<p>An Indian company is about to launch what is most certainly the world’s cheapest smartphone. The Freedom 251 from Noida-based Ringing Bells, costs, yes, Rs. 251, and will be available to buy on the company’s website from 6am on February 18 and close at 8pm on February 21.</p>
+				</div>
+			</div>
+		</div>
+		<!-- checkout stripe starts -->
+		<div class="product_checkout">
+			<div class="checkout_out">Order Total<span>$234.00</span></div>
+			<div class="proceed_to_checkout">PROCEED TO CHECKOUT</div>
+			<div class="save_order"><i class="fa fa-star"></i> Save for later</div>
+			<div class="cancel_order"><i class="fa fa-times-circle-o"></i> Cancel Order</div>
+		</div>
+		<!-- checkout stripe ends -->
+	</div>
+</body>
+</html>
